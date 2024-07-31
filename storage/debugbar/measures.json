@@ -1,0 +1,202 @@
+{
+    "Application": {
+        "count": 1,
+        "total_time": 4.336427927017212
+    },
+    "vendor\/filament\/filament\/resources\/views\/resources\/relation-manager.blade.php": {
+        "count": 1,
+        "total_time": 4.2948219776153564
+    },
+    "vendor\/filament\/tables\/resources\/views\/index.blade.php": {
+        "count": 1,
+        "total_time": 4.291924953460693
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/actions.blade.php": {
+        "count": 380,
+        "total_time": 2.6159164905548096
+    },
+    "vendor\/filament\/actions\/resources\/views\/link-action.blade.php": {
+        "count": 756,
+        "total_time": 1.6461000442504883
+    },
+    "vendor\/filament\/actions\/resources\/views\/components\/action.blade.php": {
+        "count": 758,
+        "total_time": 1.558579683303833
+    },
+    "storage\/framework\/views\/1dc89e2b9d86d5d5d550869350609c13.blade.php": {
+        "count": 756,
+        "total_time": 0.5449831485748291
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/link.blade.php": {
+        "count": 758,
+        "total_time": 0.4316871166229248
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/columns\/column.blade.php": {
+        "count": 378,
+        "total_time": 0.12101244926452637
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/selection\/checkbox.blade.php": {
+        "count": 379,
+        "total_time": 0.0889735221862793
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/actions\/cell.blade.php": {
+        "count": 378,
+        "total_time": 0.062386274337768555
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/selection\/cell.blade.php": {
+        "count": 379,
+        "total_time": 0.06193947792053223
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/icon.blade.php": {
+        "count": 759,
+        "total_time": 0.04746437072753906
+    },
+    "vendor\/filament\/tables\/resources\/views\/columns\/text-column.blade.php": {
+        "count": 378,
+        "total_time": 0.04448843002319336
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/cell.blade.php": {
+        "count": 1135,
+        "total_time": 0.04396843910217285
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/loading-indicator.blade.php": {
+        "count": 759,
+        "total_time": 0.027278423309326172
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/input\/checkbox.blade.php": {
+        "count": 379,
+        "total_time": 0.02195453643798828
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/row.blade.php": {
+        "count": 378,
+        "total_time": 0.02118849754333496
+    },
+    "update \"sessions\" set \"payload\" = 'YTo2OntzOjY6Il90b2tlbiI7czo0MDoiNHVueXV6MnRxdnpqandXNU1OZTkyc2w5N...": {
+        "count": 1,
+        "total_time": 0.020090103149414062
+    },
+    "Booting": {
+        "count": 1,
+        "total_time": 0.015625
+    },
+    "vendor\/filament\/actions\/resources\/views\/button-group.blade.php": {
+        "count": 1,
+        "total_time": 0.0038149356842041016
+    },
+    "vendor\/filament\/actions\/resources\/views\/components\/group.blade.php": {
+        "count": 1,
+        "total_time": 0.0036878585815429688
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/table.blade.php": {
+        "count": 1,
+        "total_time": 0.0034220218658447266
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/container.blade.php": {
+        "count": 1,
+        "total_time": 0.0027990341186523438
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/header.blade.php": {
+        "count": 1,
+        "total_time": 0.0025000572204589844
+    },
+    "vendor\/filament\/actions\/resources\/views\/button-action.blade.php": {
+        "count": 1,
+        "total_time": 0.001641988754272461
+    },
+    "vendor\/filament\/actions\/resources\/views\/grouped-action.blade.php": {
+        "count": 1,
+        "total_time": 0.0016260147094726562
+    },
+    "vendor\/filament\/actions\/resources\/views\/components\/modals.blade.php": {
+        "count": 1,
+        "total_time": 0.0013248920440673828
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/pagination\/index.blade.php": {
+        "count": 1,
+        "total_time": 0.0012891292572021484
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/button\/index.blade.php": {
+        "count": 2,
+        "total_time": 0.0010519027709960938
+    },
+    "storage\/framework\/views\/a52436c7b4d1bd90bc5d09876bac1232.blade.php": {
+        "count": 1,
+        "total_time": 0.0008192062377929688
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/modal\/index.blade.php": {
+        "count": 5,
+        "total_time": 0.0006470680236816406
+    },
+    "storage\/framework\/views\/11a60b04da770c4e4fc3a9dcd4e9911b.blade.php": {
+        "count": 1,
+        "total_time": 0.0006089210510253906
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/selection\/indicator.blade.php": {
+        "count": 1,
+        "total_time": 0.0005009174346923828
+    },
+    "storage\/framework\/views\/24df2039ca2553dede44c819ca2b3052.blade.php": {
+        "count": 1,
+        "total_time": 0.000492095947265625
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/dropdown\/list\/item.blade.php": {
+        "count": 1,
+        "total_time": 0.0004749298095703125
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/icon-button.blade.php": {
+        "count": 1,
+        "total_time": 0.0003898143768310547
+    },
+    "select * from \"post_comments\" where \"post_comments\".\"post_id\" = 1 and \"post_comments\".\"post_id\" is n...": {
+        "count": 1,
+        "total_time": 0.0003399848937988281
+    },
+    "select * from \"sessions\" where \"id\" = '5lNUv73J0XRPy13dNJtd7FmEsnDw41nhB3VHHX4c' limit 1": {
+        "count": 1,
+        "total_time": 0.00021004676818847656
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/input\/wrapper.blade.php": {
+        "count": 2,
+        "total_time": 0.00019621849060058594
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/input\/select.blade.php": {
+        "count": 2,
+        "total_time": 0.0001621246337890625
+    },
+    "select * from \"posts\" where \"posts\".\"id\" = 1 limit 1": {
+        "count": 2,
+        "total_time": 0.0001499652862548828
+    },
+    "vendor\/livewire\/livewire\/src\/Features\/SupportPagination\/views\/tailwind.blade.php": {
+        "count": 1,
+        "total_time": 0.0001220703125
+    },
+    "vendor\/filament\/filament\/resources\/views\/components\/unsaved-action-changes-alert.blade.php": {
+        "count": 1,
+        "total_time": 0.00011301040649414062
+    },
+    "select count(*) as aggregate from \"post_comments\" where \"post_comments\".\"post_id\" = 1 and \"post_comm...": {
+        "count": 1,
+        "total_time": 0.00010991096496582031
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/dropdown\/index.blade.php": {
+        "count": 1,
+        "total_time": 0.00010800361633300781
+    },
+    "select * from \"users\" where \"id\" = 1 limit 1": {
+        "count": 1,
+        "total_time": 7.009506225585938e-5
+    },
+    "vendor\/filament\/tables\/resources\/views\/components\/header-cell.blade.php": {
+        "count": 1,
+        "total_time": 6.794929504394531e-5
+    },
+    "vendor\/filament\/support\/resources\/views\/components\/dropdown\/list\/index.blade.php": {
+        "count": 1,
+        "total_time": 5.2928924560546875e-5
+    },
+    "vendor\/filament\/filament\/resources\/views\/components\/resources\/tabs.blade.php": {
+        "count": 1,
+        "total_time": 4.100799560546875e-5
+    }
+}
